@@ -17,7 +17,7 @@ class {{ class }} extends Model
      * @var string[]|array<int,string>
      */
     protected $fillable = [
-        'uuid',
+        'name',
         
         'is_active'
     ];
